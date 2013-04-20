@@ -1,4 +1,4 @@
 STKSpinnerView
 ==============
 
-A spinny thing
+A circular progress bar that encircles an image.
