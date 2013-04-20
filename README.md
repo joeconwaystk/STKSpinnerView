@@ -1,0 +1,4 @@
+STKSpinnerView
+==============
+
+A spinny thing
